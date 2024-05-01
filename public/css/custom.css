@@ -1,0 +1,14 @@
+/* Add here all your CSS customizations */
+
+.btn {
+  background-color: #8b4513; /* Brown color */
+  color: #fff; /* White text color */
+  border-color: #8b4513; /* Brown border color */
+}
+
+.btn-brown:hover,
+.btn-brown:focus {
+  background-color: #654321; /* Darker brown color on hover or focus */
+  border-color: #654321; /* Darker brown border color on hover or focus */
+  color: #fff; /* White text color on hover or focus */
+}
